@@ -1,2 +1,6 @@
-# Lab 5 - Starter
-Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!
+# Lab 5
+
+Name: Haotong Wu  
+Partner(s): None  
+
+Note: Due to a late add, my assigned group partner had already completed most parts of the lab. Therefore, I completed this lab independently.
