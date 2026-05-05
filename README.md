@@ -13,7 +13,7 @@ I would not use only a unit test to test the full “message” feature. Writing
 
 Yes, I would use a unit test for the “max message length” feature. This feature is more isolated because it mainly checks whether the text is longer than the allowed limit, such as 80 characters. Since the expected behavior is clear and does not require many other parts of the app to work together, a unit test would be a good way to check both valid and invalid inputs.
 
-https://timhaotongwu.github.io/Lab5_Starter/expose.html
+## GitHub Pages
 
-https://timhaotongwu.github.io/Lab5_Starter/explore.html
-
+- Expose: https://timhaotongwu.github.io/Lab5_Starter/expose.html  
+- Explore: https://timhaotongwu.github.io/Lab5_Starter/explore.html
