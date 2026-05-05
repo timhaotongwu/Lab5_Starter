@@ -11,7 +11,7 @@ Data attributes are custom attributes in HTML that start with `data-`. They allo
 They are useful because they provide a simple way to connect HTML and JavaScript. For example, instead of hardcoding values in JavaScript, we can store small pieces of data in the HTML and access them when needed.
 
 In JavaScript, they can be accessed using:
-```js
+js
 element.dataset.name;
 For example, data-type="horn" becomes element.dataset.type.
 
